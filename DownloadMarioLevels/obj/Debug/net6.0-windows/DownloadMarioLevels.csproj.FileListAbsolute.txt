@@ -1,0 +1,17 @@
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\bin\Debug\net6.0-windows\DownloadMarioLevels.exe
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\bin\Debug\net6.0-windows\DownloadMarioLevels.deps.json
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\bin\Debug\net6.0-windows\DownloadMarioLevels.runtimeconfig.json
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\bin\Debug\net6.0-windows\DownloadMarioLevels.dll
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\bin\Debug\net6.0-windows\DownloadMarioLevels.pdb
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.csproj.AssemblyReference.cache
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.Form1.resources
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.csproj.GenerateResource.cache
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.AssemblyInfoInputs.cache
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.AssemblyInfo.cs
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.csproj.CoreCompileInputs.cache
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.dll
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\refint\DownloadMarioLevels.dll
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.pdb
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\DownloadMarioLevels.genruntimeconfig.cache
+C:\Users\fedor\source\repos\DownloadMarioLevels\DownloadMarioLevels\obj\Debug\net6.0-windows\ref\DownloadMarioLevels.dll

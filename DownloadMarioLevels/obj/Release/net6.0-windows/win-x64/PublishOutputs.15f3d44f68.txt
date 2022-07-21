@@ -1,0 +1,7 @@
+D:\marioloader\DownloadMarioLevels.pdb
+D:\marioloader\D3DCompiler_47_cor3.dll
+D:\marioloader\PenImc_cor3.dll
+D:\marioloader\PresentationNative_cor3.dll
+D:\marioloader\vcruntime140_cor3.dll
+D:\marioloader\wpfgfx_cor3.dll
+D:\marioloader\DownloadMarioLevels.exe

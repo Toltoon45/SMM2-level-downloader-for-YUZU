@@ -1,0 +1,5 @@
+D:\marioloader\DownloadMarioLevels.exe
+D:\marioloader\DownloadMarioLevels.dll
+D:\marioloader\DownloadMarioLevels.runtimeconfig.json
+D:\marioloader\DownloadMarioLevels.pdb
+D:\marioloader\DownloadMarioLevels.deps.json
